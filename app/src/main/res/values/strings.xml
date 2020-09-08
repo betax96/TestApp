@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log in</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="invalid_values_entered">The values entered are not valid</string>
+    <string name="value_1">Value 1</string>
+    <string name="value_2">Value 2</string>
+    <string name="result">Result</string>
+    <string name="operation">Operation</string>
+    <string name="sum_sym">+</string>
+    <string name="subtraction_sym">-</string>
+    <string name="multiplication_sym">*</string>
+    <string name="division_sym">/</string>
+    <string name="mcm">mcm</string>
+    <string name="mcd">mcd</string>
+    <string name="higher_sym">&#62;</string>
+    <string name="less_sym">&#60;</string>
+    <string name="err_divide_by_zero">Cannot divide by zero</string>
+    <string name="result_err">ERROR</string>
+    <string name="result_true">TRUE</string>
+    <string name="result_false">FALSE</string>
+
+</resources>
